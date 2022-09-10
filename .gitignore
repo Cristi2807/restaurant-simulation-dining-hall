@@ -1,1 +1,7 @@
 .idea
+
+# Dependency directories
+vendor/
+
+# Build artifact
+src/src
